@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.skylar.av.fdkaac">
+
+    <application>
+        <activity
+            android:name=".FDKAACEncodeActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
